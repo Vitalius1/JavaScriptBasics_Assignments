@@ -1,0 +1,15 @@
+var num1 = 666;
+var num2 = 999;
+var num3 = 13;
+var num4 = 777;
+var str1 = "- What this number means?";
+var str2 = "It's just an upside-down -";
+var str3 = "What about this numbers?";
+var bool1 = false;
+var bool2 = true;
+var undefined = "13.5";
+console.log(num1, str1);
+console.log(str2, num2, ". It's " + bool2 + ". Trust me ))))");
+console.log(str3, num3 + ", " + num4);
+console.log("Or do you think my statement is " + bool1 + "?");
+console.log(undefined);
